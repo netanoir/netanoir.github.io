@@ -2,106 +2,54 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home_2222
+layout: default
+hasSticky: true
 ---
+<div class="links">
 
-<html lang="en">
+<h2 class="content"> Links </h2>
 
-    <head>
+<ul>
+<!-- <li> <a href="mailto:netanyabomani@gmail.com"> netanyabomani@gmail.com </a> </li> -->
+<li> <a href="mailto:netabomani@protonmail.com" target="_blank"> email </a> </li>
+<li> <a href="neta-bomani-resume.pdf" target="_blank"> resume </a> </li>
+<li> <a href="https://twitter.com/netabomani" target="_blank"> twitter </a> </li>
+<li> <a href="https://github.com/netanoir" target="_blank"> github </a> </li>
+</ul>
 
-        <a name="top"></a>
+</div>
 
-        <title> Neta Bomani </title>
+<div class="archive">
 
-        <meta name="description" content="The portfolio of Neta Bomani, a visual storyteller and technologist based in New York city." />
+<h2 class="content"> Archive </h2>
 
-        <link rel="stylesheet" type="text/css" href="assets/css/neta.css">
+<ul>
 
-    </head>
+<!-- <li> <a href="#">Illustration</a> for <i>The Creative Independent</i> </li> -->
 
-    <body>
+<li> <a href="https://techzinefair.org/blog" target="_blank">nytzf_interviews.md</a> </li>
 
-    <div class="container">
+<!-- <li> interviews for New York Tech Zine Fair </li> -->
 
-        <div class="header"> 
+<li> <a href="archive-old/layout/archive.html">m4sp_v1.pyde</a> </li>
 
-            <img class="sticky img1" src="assets/img/neta-bomani-halftone.png" alt="Image description: A portrait of Neta Bomani stylized in halftone and colored in chroma key blue.">
+<!-- <li> showcase project titled "Memory for a stateless person (M4SP) for the School for Poetic Computation </li> -->
 
-            <img class="sticky img2" src="assets/img/neta-bomani-smiley-blk.png" alt="Image description: A black smiley face."/>
+<li> <a href="#">nsnb_final.indd</a> </li>
 
+<!-- <li> zine for East Austin </li> -->
 
-            <h1> <a id ="home" href="index.html"> Neta Bomani </a> </h1>
+<li> <a href="/posts/m4sp">baba.ai</a> </li>
 
-            <p class = "header"> Neta Bomani is a visual storyteller based in New York city who is exploring computational and new media art approaches to organizing, archiving and writing through making prints, zines, maps and circuits. Neta is currently  at <a href="http://dinkins.studio" id="p-link" target="_blank">Stephanie Dinkins Studio</a>. </p>
+<!--  <li> illustrations shown at the Elisabet Ney Museum for Baba </li> -->
 
-        </div>
+<li> <a href="#">monkeywrenchbooks.org</a> </li>
 
-         <div class="links">
+<!--  <li> web design for Monkeywrench Books </li> -->
 
-            <h2 class="content"> Links </h2>
+<li> <a href="#">daily-dot.ai</a> </li>
 
-            <ul>
-                <!-- <li> <a href="mailto:netanyabomani@gmail.com"> netanyabomani@gmail.com </a> </li> -->
-                <li> <a href="mailto:netabomani@protonmail.com" target="_blank"> email </a> </li>
-                <li> <a href="neta-bomani-resume.pdf" target="_blank"> resume </a> </li>
-                <li> <a href="https://twitter.com/netabomani" target="_blank"> twitter </a> </li>
-                <li> <a href="https://github.com/netanoir" target="_blank"> github </a> </li>
+<!-- <li> illustrations for <i>the Daily Dot</i> </li> -->
+</ul> 
 
-
-            </ul>
-
-        </div>
-
-        <div class="archive">
-
-            <h2 class="content"> Archive </h2>
-
-            <ul>
-
-            	 <!-- <li> <a href="#">Illustration</a> for <i>The Creative Independent</i> </li> -->
-
-            	 <li> <a href="https://techzinefair.org/blog" target="_blank">nytzf_interviews.md</a> </li>
-
-                    <!-- <li> interviews for New York Tech Zine Fair </li> -->
-
-            	 <li> <a href="archive-old/layout/archive.html">m4sp_v1.pyde</a> </li>
-
-                    <!-- <li> showcase project titled "Memory for a stateless person (M4SP) for the School for Poetic Computation </li> -->
-
-            	 <li> <a href="#">nsnb_final.indd</a> </li>
-
-                    <!-- <li> zine for East Austin </li> -->
-
-            	 <li> <a href="/posts/post1">baba.ai</a> </li>
-
-                   <!--  <li> illustrations shown at the Elisabet Ney Museum for Baba </li> -->
-
-            	 <li> <a href="#">monkeywrenchbooks.org</a> </li>
-
-                   <!--  <li> web design for Monkeywrench Books </li> -->
-
-            	 <li> <a href="#">daily-dot.ai</a> </li>
-
-                    <!-- <li> illustrations for <i>the Daily Dot</i> </li> -->
-            </ul> 
-
-        </div>
-
-
-            <div class="footer">
-
-                <footer>
-
-                	<p> <a href="#top" id="p-link"> Back to top <mark class="unicode"> &#x293b; </mark> </a> </p>
-
-                	<p> &copy; Neta Bomani 2018. All rights reserved. </p>
-
-                </footer>
-
-            </div>
-
-        </div>
-
-    </body>
-
-</html>
+</div>
