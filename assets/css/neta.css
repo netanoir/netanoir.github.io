@@ -3,12 +3,12 @@
 
 body {
 
-	margin: 25px;
+	margin: 0px;
 
 }
 
 .header { grid-area: header; }
-.archive { grid-area: main; }
+.archive { grid-area: main; width: 100%;}
 .links { grid-area: right; }
 .footer { grid-area: footer; }
 
@@ -38,7 +38,7 @@ body {
 body {
 
 	font-family: 'Lora', serif;
-	font-size: 35px; 
+	font-size: 40px; 
 
 }
 
@@ -51,7 +51,7 @@ h1 {
 h2.content {
 
 	font-family: 'Inconsolata', monospace;
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: normal;
 	text-transform: lowercase;
 	font-variant: small-caps;
@@ -65,8 +65,8 @@ h2.content {
 h3.archive {
 
 	font-family: 'Inconsolata', monospace;
-	font-size: 45px;
-	font-weight: normal;
+	font-size: 60px;
+	font-weight: bold;
 	margin: 0;
 	padding: 0;
 
@@ -106,8 +106,9 @@ p.header {
 #p-link {
 
 	font-family: 'Lora', sans-serif;
-	font-size: 35px;
+	font-size: 40px;
 	color: #000000;
+
 
 }
 
@@ -126,7 +127,7 @@ p.header::after {
 a:link, a:visited, a:active {
 
 	font-family: 'Inconsolata', monospace;
-	font-size: 35px;
+	font-size: 45px;
 	color: #0000FF;
 	text-decoration: none;
 }
@@ -136,10 +137,8 @@ a:hover {
 	color: #FFFFFF;
 	text-decoration: none;
 	background-color: #0000FF;
-/*	padding: 1.5px;*/
-
-
 }
+
 
 ul {
 
@@ -157,8 +156,17 @@ li {
 
 	max-width: 100%;
 	height: auto;
-/*	height: 80%;*/
 
+}
+
+img[src*="#vertical"] {
+   max-height: 100%;
+   width: auto;
+}
+
+::selection {
+  color: #fff; 
+  background: #000000;
 }
 
 figcaption {
@@ -169,14 +177,22 @@ figcaption {
 }
 
 p + blockquote {
-	margin-top: -25px;
+	margin-top: -30px;
+	/*margin-left: 0px;*/
+	font-family: 'Inconsolata', monospace;
 }
 
 blockquote {
 
 	font-size: 70%;
-	font-style: italic;
+	/*font-style: italic;*/
 
+}
+
+code {
+  font-family: 'Inconsolata', monospace;
+  background-color: #dedede;
+  padding: 0.07em;
 }
 
 .sticky {

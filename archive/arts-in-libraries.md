@@ -1,0 +1,9 @@
+---
+layout: archive
+title: Code, Craft & Catalogues&#58; Arts in the Libraries
+---
+
+![Metro Studio. Photo via Shannon Mattern.](/assets/img/archive/arts-in-libraries/arts-in-libraries1.jpg)
+>Metro Studio. Photo via Shannon Mattern.
+
+On March 9, 2019, I will be conducting a zine workshop at "Code, Craft & Catalogues: Arts in the Libraries,” a half-day symposium co-organized by the [Metropolitan New York Library Council](https://metro.org/), the [Finnish Cultural Institute in New York](http://fciny.org/), and [The New School](https://www.newschool.edu/provost/faculty-research-fund/). The event will be  at METRO Studio at 599 11th Avenue in New York. The symposium will feature FCINY’s recent artistic collaboration with [Oodi](https://www.oodihelsinki.fi/en/), the brand-new Helsinki Central Library; METRO’s current “[Privacy in Public](https://privacyinpublic.org/),” a “digital privacy” exhibition that’s distributed across nine NYC branch libraries; and an assortment of related exhibitions, artworks, and residencies around the country. Confirmed participants include: [Anni Vartola](http://archinfo.fi/en/2018/05/mind-building-curator-and-exhibition-team/), curator of the [library-themed Finnish pavilion](https://www.domusweb.it/en/speciali/biennale/2018/finland-libraries-are-our-place-of-freedom.html) at the 2018 Venice Architecture Biennale; [Laura Norris](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGvVytMfY6fRwAAAWg0E30YH2BFCB-uIjBxYgn_wcD-euu74vEZbCApDjhb-oLTCp25B9I8y20OdE5McuaijVZR_ZX0SG_udnymqSwv1i4IPvhATeTo8cjhKcTkdmiNUI7UKPE=&originalReferer=&sessionRedirect=https://fi.linkedin.com/in/norrila), Service Director of Oodi; and [Jer Thorp](https://www.jerthorp.com/), [Innovator in Residence](https://www.loc.gov/item/prn-18-090/library-of-congress-appoints-innovator-in-residence-jer-thorp-to-second-term/2018-07-09/) at the Library of Congress. 
