@@ -3,7 +3,7 @@ layout: archive
 title: The Daily Dot
 ---
 
-Editorial illustrations and/or [writings](https://www.dailydot.com/author/netabomani/) for the [Daily Dot](https://www.dailydot.com/).
+Editorial illustrations for the [Daily Dot](https://www.dailydot.com/). 
 
 ![](https://pro2-bar-s3-cdn-cf5.myportfolio.com/de8c0912ce1783883a25575439440b06/61c7c41d-4c32-401d-ba5a-7dde606f35c8_rw_1920.png?h=149c558e8b8075878954993b0e03d017)
 > Understanding the difference between race and ethnicity

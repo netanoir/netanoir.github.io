@@ -24,14 +24,14 @@ hasSticky: true
 
 <ul>
 
-<li> <a href="/archive/arts-in-libraries">code_craft_catalogues.pdf</a> </li>
-<li> <a href="/archive/tci">creative-independent.ai</a> </li>
+<li> <a href="/archive/arts-in-libraries">code-craft-catalogues</a> </li>
+<li> <a href="/archive/tci">creative-savior-complex.ai</a> </li>
 <li> <a href="https://techzinefair.org/blog" target="_blank">nytzf-interviews.md</a> </li>
-<li> <a href="/archive/m4sp">sfpc_m4sp-prototype.pyde</a> </li>
+<li> <a href="/archive/m4sp">m4sp-prototype.pyde</a> </li>
 <li> <a href="/archive/nsnb">nsnb_zine.indd</a> </li>
 <li> <a href="/archive/baba">elisabet-ney-museum_baba.ai</a> </li>
 <li> <a href="/archive/mwb">monkeywrenchbooks.org</a> </li>
-<li> <a href="/archive/daily-dot">daily-dot.ai</a> </li>
+<!-- <li> <a href="/archive/daily-dot">daily-dot.ai</a> </li> -->
 
 </ul> 
 

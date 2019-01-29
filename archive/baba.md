@@ -3,7 +3,7 @@ layout: archive
 title: Baba
 ---
 
-From August 10–September 3, 2017, I exhibited illustrations based on the autobiographical stories of my father at the [Elisabet Ney Museum](http://www.austintexas.gov/Elisabetney) in collaboration with [Boss Babes](https://www.bossbabes.org/). The opening reception was followed by a Q&A where I was interviewed by my friend, Candace Roane.
+From August 10–September 3, 2017, I exhibited illustrations based on the autobiographical stories of my father at the [Elisabet Ney Museum](http://www.austintexas.gov/Elisabetney) in collaboration with [Boss Babes](https://www.bossbabes.org/). The opening reception was followed by a Q&A where I was interviewed by Candace Roane.
 
 
 
