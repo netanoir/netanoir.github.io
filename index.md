@@ -4,7 +4,7 @@ hasSticky: true
 ---
 <div class="links">
 
-<h2 class="content"> Links </h2>
+<h2 class="content">Links</h2>
 
 <ul>
 <li> <a href="https://www.are.na/neta-bomani" target="_blank">are.na</a> </li>
@@ -20,7 +20,7 @@ hasSticky: true
 
 <div class="archive">
 
-<h2 class="content"> Archive </h2>
+<h2 class="content">Archive</h2>
 
 <ul>
 

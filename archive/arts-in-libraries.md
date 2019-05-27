@@ -2,6 +2,7 @@
 layout: archive
 title: Code, Craft & Catalogues&#58; Arts in the Libraries
 ---
+
 ![Banner by Ilari Laamanen.](/assets/img/archive/arts-in-libraries/arts-in-libraries1.jpg)
 >Banner by Ilari Laamanen.
 
