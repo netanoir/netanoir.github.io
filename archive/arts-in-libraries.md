@@ -30,7 +30,7 @@ The Cybernetics Library and I live documented the event in the form of a zine-ma
 
 To facilitate, we created a worksheet filled with prompts like:
 -  Do you feel like people who look like you are well represented in the room and/or on the panels?
--  Describe the shoes you’re wearing?
+- Describe the shoes you’re wearing?
 - What are your first memories of libraries?
 
 
@@ -41,10 +41,10 @@ Participants were instructed to:
 - Take notes in the zine-making worksheets during the panel(s),
 - Tweet with the **#artsinlibraries** hashtag,
 - Browse the pop up Cybernetics Library which consisted of curated books related to the talks,
-- And physically and digitally collage pieces from their worksheets, printed tweets, and photocopies from book pages for each panel to make up a total of three spreads for the zine using the Cybernetics Library scryer table.
+- And physically and digitally collage pieces from their worksheets, printed tweets, and photocopies from book pages for each panel to make up a total of three spreads for the zine using the scryer table created by the Cybernetics Library.
 
 ![Timelapse of the creation of the zine.](/assets/img/archive/arts-in-libraries/arts-in-libraries6.gif)
->Timelapse of the creation of the zine.
+>Timelapse of the creation of the zine. Each spread of the zine corresponded to each if the three panels that happened during the symposium.
 
 By the end of the symposium, we made a zine which you can download and print [here](http://wordsinspace.net/shannon/wp-content/uploads/2019/03/arts-in-the-libraries_medium-res_zine.pdf).
 

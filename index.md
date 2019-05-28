@@ -24,14 +24,16 @@ hasSticky: true
 
 <ul>
 
+<li> <a href="/archive/radical-black-harlem">radical-black-harlem.indd</a> </li>
 <li> <a href="/archive/arts-in-libraries">code-craft-catalogues</a> </li>
+<li> <a href="/archive/art-fem-moma">wikipedia edit-a-thon</a> </li>
 <li> <a href="/archive/tci">creative-savior-complex.ai</a> </li>
 <li> <a href="https://techzinefair.org/blog" target="_blank">nytzf-interviews.md</a> </li>
 <li> <a href="/archive/m4sp">m4sp-prototype.pyde</a> </li>
 <li> <a href="/archive/nsnb">nsnb_zine.indd</a> </li>
 <li> <a href="/archive/baba">elisabet-ney-museum_baba.ai</a> </li>
 <li> <a href="/archive/mwb">monkeywrenchbooks.org</a> </li>
-<!-- <li> <a href="/archive/daily-dot">daily-dot.ai</a> </li> -->
+<li> <a href="/archive/daily-dot">daily-dot.ai</a> </li>
 
 </ul> 
 

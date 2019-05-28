@@ -3,10 +3,11 @@ layout: archive
 title: The Daily Dot
 ---
 
-Editorial illustrations for the [Daily Dot](https://www.dailydot.com/). 
+An assortment of editorial illustrations I made for the [Daily Dot](https://www.dailydot.com/), a virtual newspaper based in Austin, Texas I interned for under the editorial department the summer of 2017. The illustrations I made spanned topics from politics, pop and internet culture to technology. I also occasionally [wrote](https://www.dailydot.com/irl/what-is-ethnicity/) for the Daily Dot.
+
 
 ![](https://pro2-bar-s3-cdn-cf5.myportfolio.com/de8c0912ce1783883a25575439440b06/61c7c41d-4c32-401d-ba5a-7dde606f35c8_rw_1920.png?h=149c558e8b8075878954993b0e03d017)
-> Understanding the difference between race and ethnicity
+> Understanding the difference between race and ethnicity.
 
 ![](https://pro2-bar-s3-cdn-cf6.myportfolio.com/de8c0912ce1783883a25575439440b06/0df1b951-6da7-4a1c-8b98-a03b75a5e384_rw_1920.jpg?h=35d5657340b646c8fd1e8f63771f5933)
 > Meet John Draper, the hacker who inspired Apple’s founders
