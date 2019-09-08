@@ -84,11 +84,6 @@ p.header {
 
 #home {
 
-	font-family
-}
-
-#home {
-
 	font-family: 'Inconsolata', monospace;
 	font-size: 90px;
 	font-weight: normal;
@@ -153,6 +148,7 @@ li {
 
 }
 
+
 .archive img {
 
 	max-width: 100%;
@@ -167,7 +163,7 @@ img[src*="#vertical"] {
 
 ::selection {
   color: #fff; 
-  background: #000000;
+  background: #0000FF;
 }
 
 figcaption {

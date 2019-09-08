@@ -8,6 +8,7 @@ hasSticky: true
 
 <ul>
 <li> <a href="https://www.are.na/neta-bomani" target="_blank">are.na</a> </li>
+<li> <a href="/blog.html">blog</a> </li>
 <li> <a href="https://github.com/netanoir" target="_blank">github</a> </li>
 <li> <a href="mailto:netanyabomani@gmail.com">gmail</a> </li>
 <li> <a href="mailto:netabomani@protonmail.com" target="_blank">protonmail</a> </li>
@@ -23,7 +24,7 @@ hasSticky: true
 <h2 class="content">Archive</h2>
 
 <ul>
-
+<li> <a href="/archive/obb">out-of-the-black-box.md</a> </li>
 <li> <a href="/archive/radical-black-harlem">radical-black-harlem.indd</a> </li>
 <li> <a href="/archive/arts-in-libraries">code-craft-catalogues</a> </li>
 <li> <a href="/archive/art-fem-moma">wikipedia edit-a-thon</a> </li>

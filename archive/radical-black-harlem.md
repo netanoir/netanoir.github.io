@@ -11,4 +11,6 @@ I designed the guidebook for the [Radical Black Women of Harlem Walking Tour](ht
 ![My hand holding the Radical Black Women of Harlem Tour guidebook in front of a crowd of people walking to the next stop on the tour.](/assets/img/archive/radical-black-harlem/radical-black-harlem2.jpg)
 > My hand holding the Radical Black Women of Harlem Tour guidebook in front of a crowd of people walking to the next stop on the tour.
 
+The guidebook features the following women: Williana Jones Burroughs, Regina Anderson Andrews, Ella Baker, Claudia Jones, Lorraine Hansberry, Salaria Kee, Madame C.J. Walker, A'Lelia Walker, Victoria Earle Matthews, Zora Neale Hurston, Louise Thompson, Dorothy Height, Pauli Murray, Amy Ashwood Garvey, Billie Holiday, Audre Lorde, Madame Stephanie St. Clair, Marvel Cooke, Eslanda Goode Robeson, Una Mulzac, Grace Campbell and Willie Mae Mallory.
+
 Read more about Radical Black Women of Harlem on my [Twitter](https://twitter.com/netabomani/status/1114912911401607168) or the [#RBWH2019](https://twitter.com/hashtag/RBWH2019?src=hash) hashtag. Download the guidebook [here](http://bcrw.barnard.edu/wp-content/sji/radical-black-women-of-harlem-walking-tour.pdf).
