@@ -8,7 +8,7 @@ hasSticky: true
 
 <ul>
 <li> <a href="https://www.are.na/neta-bomani" target="_blank">are.na</a> </li>
-<li> <a href="/blog.html">blog</a> </li>
+<li> <a href="/blog">blog</a> </li>
 <li> <a href="https://github.com/netanoir" target="_blank">github</a> </li>
 <li> <a href="mailto:netanyabomani@gmail.com">gmail</a> </li>
 <li> <a href="mailto:netabomani@protonmail.com" target="_blank">protonmail</a> </li>
