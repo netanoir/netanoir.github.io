@@ -188,8 +188,9 @@ blockquote {
 
 code {
   font-family: 'Inconsolata', monospace;
-  background-color: #dedede;
-  padding: 0.07em;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 0.09em;
 }
 
 .sticky {
