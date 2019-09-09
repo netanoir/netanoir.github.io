@@ -13,7 +13,7 @@ For Physical Computing taught by Danny Rozin, we were assigned the first two cha
 ### Computational Media
 In Introduction to Computational Media (ICM), Cassie Tarakajian introduced us to [p5.js](https://p5js.org), a creative coding javascript library which we will be learning how to use and code with this semester. For homework, we are first supposed to create our own screen drawing (for example, self-portrait, alien, monster, etc.) using 2d shapes like `arc()`, `curve()` or `ellipse()`. You can view my sketch [here](#) once I actually complete this homework assignment. 
 
-Second, we're supposed to write about how computation applies to our interests. I'm interested in using computation from a cybernetics standpoint, where learning about systems will not only help me better understand how to dismantle them, but to create better ones in place.
+Second, we're supposed to write about how computation applies to our interests. I'm interested in using computation from a cybernetics standpoint, where learning about (computational) systems will not only help me better understand how to dismantle them, but to create better ones in place. It is my goal to apply my learning in this area to the organizing work I do for abolition with organizations like No New Jails and Survived and Punished.
 
 
 ### Fabrication

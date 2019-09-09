@@ -1,5 +1,6 @@
 ---
 layout: archive
+hasSticky: false
 title: Memory for a stateless person (M4SP)
 ---
 
