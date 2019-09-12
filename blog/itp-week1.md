@@ -3,7 +3,7 @@ layout: archive
 title: ITP Week 1
 ---
 
-On September 3, 2019 I started graduate school in the [Interactive Telecommunications Program](http://itp.nyu.edu) (ITP) at New York University (NYU). I will be documenting my progress throughout the program on this blog. This week's blog post includes updates and assignments from the introductory courses to Physical Computing, Computational Media and Fabrication.
+On September 3, 2019 I started graduate school in the [Interactive Telecommunications Program](http://itp.nyu.edu) (ITP) at New York University (NYU). I will be documenting my progress throughout the program on this blog. This week's blog post includes updates and assignments from the introductory courses to Physical Computing, Fabrication and Computational Media.
 
 ### Physical Computing
 For Physical Computing taught by Danny Rozin, we were assigned the first two chapters of the [Art of Interactive Design](http://proxy.library.nyu.edu/sso/skillport?context=4587) by Chris Crawford and "[A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)" by Bret Victor to read. 
@@ -45,17 +45,6 @@ I took away the following from Bret Victor's rant:
 	4. The problem with screen technology is that it most often lacks tactile feedback.
 5. Screens aren't expressive because they limit interactions to basic gestures like sliding, while there are many more interactions that we are capable of in the natural world.
 
-
-### Computational Media
-In Introduction to Computational Media (ICM), Cassie Tarakajian introduced us to [p5.js](https://p5js.org), a creative coding javascript library which we will be learning how to use and code with this semester. For homework, we were first supposed to create our own screen drawing using 2d shapes like `arc()`, `curve()` or `ellipse()`. I made an effort to recreate the design of a book cover I really like titled "[AVERROES and the Metaphysics of Causation](https://www.sunypress.edu/p-42-averroes-and-the-metaphysics-of.aspx)" by Barry S. Kogan. You can view my live sketch [here](https://editor.p5js.org/netanoir/sketches/jZkn1whY6) or below.
-
-![Image description: Screenshot of my sketch.](/assets/img/blog/itp-week1/itp_week1_sketch.png)
->Screenshot of my sketch.
-
-
-Second, we're supposed to write about how computation applies to our interests. I'm interested in using computation from a cybernetics perspective, where learning about (computational) systems will not only help me better understand how to dismantle them, but to create better ones in place. It is my goal to apply my learning in this area to the organizing work I do for abolition with organizations like No New Jails and Survived and Punished.
-
-
 ### Fabrication
 We learned how to drill holls and screws in the first Fabrication class from Mark Kleback. For homework we were to build a flashlight. Based on the new skills I learned, I made a flashlight comprised of a wooden cylinder with five holes drilled in it. 
 ![Image description: My hand holding up the flashlight.](/assets/img/blog/itp-week1/itp_week1_flashlight1.jpg)
@@ -73,6 +62,16 @@ Four of the five holes are attached to string woven with conductive thread which
 
 ![Image description: All the components laid out in the process of making the flashlight including purple and orange string, grey conductive thread, yellow leds, resistors, my initial cardboard prototype and the wooden prototype halfway done.](/assets/img/blog/itp-week1/itp_week1_flashlight4.jpg)
 >  All the components laid out in the process of making the flashlight including purple and orange string, grey conductive thread, yellow LEDs, resistors, my initial cardboard prototype and the wooden prototype halfway done.
+
+### Computational Media
+In Introduction to Computational Media (ICM), Cassie Tarakajian introduced us to [p5.js](https://p5js.org), a creative coding javascript library which we will be learning how to use and code with this semester. For homework, we were first supposed to create our own screen drawing using 2d shapes like `arc()`, `curve()` or `ellipse()`. I made an effort to recreate the design of a book cover I really like titled "[AVERROES and the Metaphysics of Causation](https://www.sunypress.edu/p-42-averroes-and-the-metaphysics-of.aspx)" by Barry S. Kogan. You can view my live sketch [here](https://editor.p5js.org/netanoir/sketches/jZkn1whY6) or below.
+
+![Image description: Screenshot of my sketch.](/assets/img/blog/itp-week1/itp_week1_sketch.png)
+>Screenshot of my sketch.
+
+
+Second, we're supposed to write about how computation applies to our interests. I'm interested in using computation from a cybernetics perspective, where learning about (computational) systems will not only help me better understand how to dismantle them, but to create better ones in place. It is my goal to apply my learning in this area to the organizing work I do for abolition with organizations like No New Jails and Survived and Punished.
+
 
 
 
