@@ -5,8 +5,6 @@ title: ITP Week 1
 
 On September 3, 2019 I started graduate school in the [Interactive Telecommunications Program](http://itp.nyu.edu) (ITP) at New York University (NYU). I will be documenting my progress throughout the program on this blog. This week's blog post includes updates and assignments from the introductory courses to Physical Computing, Computational Media and Fabrication.
 
-This post is a work-in-progress 😅
-
 ### Physical Computing
 For Physical Computing taught by Danny Rozin, we were assigned the first two chapters of the [Art of Interactive Design](http://proxy.library.nyu.edu/sso/skillport?context=4587) by Chris Crawford and "[A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)" by Bret Victor to read. 
 
@@ -49,10 +47,35 @@ I took away the following from Bret Victor's rant:
 
 
 ### Computational Media
-In Introduction to Computational Media (ICM), Cassie Tarakajian introduced us to [p5.js](https://p5js.org), a creative coding javascript library which we will be learning how to use and code with this semester. For homework, we are first supposed to create our own screen drawing (for example, self-portrait, alien, monster, etc.) using 2d shapes like `arc()`, `curve()` or `ellipse()`. You can view my sketch [here](#) once I actually complete this homework assignment. 
+In Introduction to Computational Media (ICM), Cassie Tarakajian introduced us to [p5.js](https://p5js.org), a creative coding javascript library which we will be learning how to use and code with this semester. For homework, we were first supposed to create our own screen drawing using 2d shapes like `arc()`, `curve()` or `ellipse()`. I made an effort to recreate the design of a book cover I really like titled "[AVERROES and the Metaphysics of Causation](https://www.sunypress.edu/p-42-averroes-and-the-metaphysics-of.aspx)" by Barry S. Kogan. You can view my live sketch [here](https://editor.p5js.org/netanoir/sketches/jZkn1whY6) or below.
 
-Second, we're supposed to write about how computation applies to our interests. I'm interested in using computation from a cybernetics standpoint, where learning about (computational) systems will not only help me better understand how to dismantle them, but to create better ones in place. It is my goal to apply my learning in this area to the organizing work I do for abolition with organizations like No New Jails and Survived and Punished.
+![Image description: Screenshot of my sketch.](/assets/img/blog/itp-week1/itp_week1_sketch.png)
+>Screenshot of my sketch.
+
+
+Second, we're supposed to write about how computation applies to our interests. I'm interested in using computation from a cybernetics perspective, where learning about (computational) systems will not only help me better understand how to dismantle them, but to create better ones in place. It is my goal to apply my learning in this area to the organizing work I do for abolition with organizations like No New Jails and Survived and Punished.
 
 
 ### Fabrication
-For homework we are to build a flashlight. I still have no idea what I'm going to build.
+We learned how to drill holls and screws in the first Fabrication class from Mark Kleback. For homework we were to build a flashlight. Based on the new skills I learned, I made a flashlight comprised of a wooden cylinder with five holes drilled in it. 
+![Image description: My hand holding up the flashlight.](/assets/img/blog/itp-week1/itp_week1_flashlight1.jpg)
+>My hand holding up the flashlight.
+
+To make the cylinder I had to use a hole saw drill bit attached to the drill press. It was very hard (!!!) and also my first time using the drill press _immediately_ after a safety training! Drilling the other 5 holes was much easier after that. 
+
+![Image description: Close up shot of the leds and string.](/assets/img/blog/itp-week1/itp_week1_flashlight3.jpg)
+>Close up shot of the LEDs and string.
+
+Four of the five holes are attached to string woven with conductive thread which have leds and resistors connected in parallel to form the flashlight. It's not finished, but it's a cute prototype.
+
+![Image description: My sketch and schematic of the flashlight drawn in my notebook.](/assets/img/blog/itp-week1/itp_week1_flashlight2.jpg)
+> My sketch and schematic of the flashlight drawn in my notebook.
+
+![Image description: All the components laid out in the process of making the flashlight including purple and orange string, grey conductive thread, yellow leds, resistors, my initial cardboard prototype and the wooden prototype halfway done.](/assets/img/blog/itp-week1/itp_week1_flashlight4.jpg)
+>  All the components laid out in the process of making the flashlight including purple and orange string, grey conductive thread, yellow LEDs, resistors, my initial cardboard prototype and the wooden prototype halfway done.
+
+
+
+
+
+
