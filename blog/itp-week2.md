@@ -50,6 +50,9 @@ When the shop opens up, I hope to take them apart, sand the surfaces and round t
 
 I have a lot of thoughts swirling in my head about handmade goods, Fordism, capitalism, overconsumption, material waste and our dying planet but it's late so I'll process those thoughts later and revisit this blog post.
 
+## Computational Media
+This section of the blog post is a work in progress, just the assignment. You can view the progress on my sketch [here](https://editor.p5js.org/netanoir/sketches/SaSrlhZz5). I'll have to finish my idea after class. More soon later.
+
 
 
 
