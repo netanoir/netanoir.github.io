@@ -3,7 +3,7 @@ layout: archive
 title: ITP Week 4&#58; Modest Tools
 ---
 
-This week's blog post includes updates and assignments from the Prediction as Planning and introductory courses to Physical Computing, Fabrication and Computational Media.
+This week's blog post includes updates and assignments from the Prediction as Planning and introductory courses to Fabrication and Computational Media.
 
 This blog post is a work in progress 😅 
 

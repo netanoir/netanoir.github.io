@@ -11,7 +11,12 @@ This blog post is a work in progress 😅
 Here's a [link](https://editor.p5js.org/wpolitan/sketches/pQPpAOTp0) to this week's sketch that I worked on with Will Politan.
 
 ### Fabrication
-Working on it!
+I made a laser cut zine called _the garden_. It's about discovering a hummingbird in a garden.
+![Image description: TBD](/assets/img/blog/itp-week3/garden0.jpg)
+![Image description: TBD](/assets/img/blog/itp-week3/garden1.jpg)
+![Image description: TBD](/assets/img/blog/itp-week3/garden2.jpg)
+![Image description: TBD](/assets/img/blog/itp-week3/garden3.jpg)
+
 
 ### Physical Computing
 For Physical Computing, we were instructed to make an observation of an interactive technology in public, used by multiple people.
