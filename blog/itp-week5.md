@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ITP Week 4&#58; Modest Tools
+title: ITP Week 5&#58; Making functional objects while feeling dysfunctional and burned out from grad school midterm
 ---
 
 This week's blog post includes updates and assignments from the Prediction as Planning and introductory courses to Fabrication and Computational Media.
@@ -8,12 +8,15 @@ This week's blog post includes updates and assignments from the Prediction as Pl
 This blog post is a work in progress 😅 
 
 ### Computational Media
-This week I'm thinking about how to make text based mediums dynamic. I'm still very inspired by Simone Browne's _Dark Matters_. Here's my work in progress [sketch](https://editor.p5js.org/netanoir/sketches/9TsSxsCZk) of an redacted FBI Freedom of Information Act (FOIA) file.
+This week we learned about objects and functions. I made a [code meme](https://editor.p5js.org/netanoir/sketches/zVpJD0Zz1) about Cardi B and the Pythagorean theorem. 
+![Image description: TBD](/assets/img/blog/itp-week5/cardib.png)
 
 ### Fabrication
-Thinking a lot about modest materials and tools, recyclable and sustainable practices in making objects that people from low income backgrounds like myself will find accessible outside of ITP. I made an enclosure out of cardboard with standoffs. I used a box cutter and awl to make it work. Planning on connecting my potentiometer to my this week's computational media sketch to operate as a mouse or slider.
+This week we learned about [materials and fasteners](https://itp.nyu.edu/fab/intro_fab/week-5-materials-and-fastners/). Here's my failed experiment with making jewelry with resin and acyrlic ink! I was able to find some old keys and make earrings out of them. 
 
-![Image description: TBD](/assets/img/blog/itp-week4/enclosure0.jpg)
-![Image description: TBD](/assets/img/blog/itp-week4/enclosure1.jpg)
-![Image description: TBD](/assets/img/blog/itp-week4/enclosure2.jpg)
-![Image description: TBD](/assets/img/blog/itp-week4/enclosure3.jpg)
+![Image description: TBD](/assets/img/blog/itp-week5/fastener1.jpg)
+![Image description: TBD](/assets/img/blog/itp-week5/fastener2.jpg)
+![Image description: TBD](/assets/img/blog/itp-week5/fastener3.jpg)
+![Image description: TBD](/assets/img/blog/itp-week5/fastener4.jpg)
+![Image description: TBD](/assets/img/blog/itp-week5/fastener5.jpg)
+![Image description: TBD](/assets/img/blog/itp-week5/fastener6.jpg)
