@@ -12,7 +12,7 @@ This blog post is a work in progress 😅
 This week we learned about objects and functions. I improved on my previous [sketch](https://editor.p5js.org/netanoir/sketches/9TsSxsCZk) of a redacted FBI Freedom of Information Act (FOIA) file [here](https://editor.p5js.org/netanoir/sketches/emvBKysRx). See more documentation under "Physical Computation."
 
 ### Physical Computation
-I connected my FOIA sketch to my arduino with serial communication. Now you can control the redactions with a sensor that is a potentiometer.
+I connected my FOIA sketch to my arduino with serial communication. Now you can control the redactions with a sensor that is a potentiometer. I'm interested in exploring this idea and building out an installation for it as a final project. I'm reading Simone Browne, Edouard Glissant, Christina Wake, Ruha Benjamin, Nicholas Mirzoeff, adrienne maree brown, and more to help inform the work.
 ![Image description: TBD](/assets/img/blog/itp-week6/foia_prototype1.gif)
 ![Image description: TBD](/assets/img/blog/itp-week6/foia_prototype2.gif)
 
