@@ -1,3 +1,4 @@
+---
 layout: archive
 title: ICM Pair Programming: Pixels and color
 ---
