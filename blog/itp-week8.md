@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ICM Pair Programming &#58; Pixels and color
+title: ICM Pair Programming&#58; Pixels and color
 ---
 
 For ICM, Sam Krystal and Neta Bomani worked on [sketch](https://editor.p5js.org/samek/sketches/vCml-7n1z) based on a segment in the Pokemon television series called "Who's That Pokemon?"[^1]
