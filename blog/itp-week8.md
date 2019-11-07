@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ICM Pair Programming: Pixels and color
+title: ICM Pair Programming &#58; Pixels and color
 ---
 
 For ICM, Sam Krystal and Neta Bomani worked on [sketch](https://editor.p5js.org/samek/sketches/vCml-7n1z) based on a segment in the Pokemon television series called "Who's That Pokemon?"[^1]
@@ -17,3 +17,5 @@ Section 1: This is Bulbasaur.
 Section 2: This is Mewtwo.
 Section 3: This is Jigglypuff.
 Section 4: This is Electrobuzz.
+
+### References
