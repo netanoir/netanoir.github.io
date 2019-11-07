@@ -32,6 +32,7 @@ permalink: /blog/
 <li> <a href="/blog/itp-week4">itp-week4.md</a> </li>
 <li> <a href="/blog/itp-week5">itp-week5.md</a> </li>
 <li> <a href="/blog/itp-week6">itp-week6.md</a> </li>
+<li> <a href="/blog/itp-week8">itp-week8.md</a> </li>
 
 </ul> 
 
