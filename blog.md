@@ -25,7 +25,7 @@ permalink: /blog/
 <h2 class="content">Archive</h2>
 
 <ul>
-
+<li> <h3 class="blog">fall 2019</h3> </li>
 <li> <a href="/blog/itp-week1">itp-week1.md</a> </li>
 <li> <a href="/blog/itp-week2">itp-week2.md</a> </li>
 <li> <a href="/blog/itp-week3">itp-week3.md</a> </li>
@@ -34,6 +34,8 @@ permalink: /blog/
 <li> <a href="/blog/itp-week6">itp-week6.md</a> </li>
 <li> <a href="/blog/itp-week7">itp-week7.md</a> </li>
 <li> <a href="/blog/itp-week8">itp-week8.md</a> </li>
+<li> <h3 class="blog">spring 2020 </h3> </li>
+<li> <a href="/blog/itp-sp2020-week1">itp-sp2020-week1.md</a> </li>
 
 </ul> 
 
