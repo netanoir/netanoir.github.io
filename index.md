@@ -23,7 +23,9 @@ hasSticky: true
 <h2 class="content">Archive</h2>
 
 <ul>
+<li> <a href="https://blackphotobooth.glitch.me" target="_blank">black-photo-booth</a></li>
 <li> <a href="/archive/bonita">ground-hog-day-bonita-carter.indd</a></li>
+<li> <a href="https://www.are.na/code-societies/oral-history-project" target="_blank">code-societies-oral-history</a></li>
 <li> <a href="/archive/aiga">aiga-eye-on-design.ai</a></li>
 <li> <a href="/archive/obb">out-of-the-black-box.md</a> </li>
 <li> <a href="/archive/radical-black-harlem">radical-black-harlem.indd</a> </li>
