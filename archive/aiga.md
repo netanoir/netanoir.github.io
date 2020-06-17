@@ -3,7 +3,7 @@ layout: archive
 title: AIGA Eye on Design
 ---
 
-Editorial illustrations I made to accompany an article Meg Miller wrote titled _Finding the Blank Spots in Big Data_ for [AIGA Eye on Design](https://eyeondesign.aiga.org/finding-the-blank-spots-in-big-data/).
+Editorial illustration I made to accompany an article Meg Miller wrote titled _Finding the Blank Spots in Big Data_ for [AIGA Eye on Design](https://eyeondesign.aiga.org/finding-the-blank-spots-in-big-data/).
 
 
 ![](/assets/img/archive/aiga-eye-on-design/aiga1.png)

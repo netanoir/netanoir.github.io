@@ -11,3 +11,5 @@ Zine I made with [Mariame Kaba](http://usprisonculture.com) titled _Groundhog Da
 ![Inside spread of the zine](/assets/img/archive/bonita/bonita1.png)
 
 ![Back cover of the zine](/assets/img/archive/bonita/bonita2.png)
+
+Message me for a copy.

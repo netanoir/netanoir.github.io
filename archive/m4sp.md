@@ -25,4 +25,6 @@ By touching a wire to the metal on the resistors, people interacting with the ci
 ![Image description: ](/assets/img/archive/m4sp/m4sp7.jpg "M4SP photo by Minu Han")
 >Memory for a stateless person exhibited at the Fall 2018 showcase at the School for Poetic Computation. Photo by Minü Han.
 
+The work is currently still in progress.
+
 

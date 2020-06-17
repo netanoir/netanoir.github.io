@@ -26,7 +26,7 @@ NSNB lives on within [Austin Public Library](https://library.austintexas.libguid
 ![NSNB at the Austin Public Library.](/assets/img/archive/nsnb/nsnb-library3.jpg)
 >NSNB at the Austin Public Library. Image via [@caryebye](https://instagram.com/caryebye). -->
 
-![A hand holding a copy of NSNB at the Austin Public Library.](/assets/img/archive/nsnb/nsnb-library1.jpg#vertical)
->A hand holding a copy of NSNB at the Austin Public Library.
+![My hand holding a copy of NSNB at the Austin Public Library.](/assets/img/archive/nsnb/nsnb-library1.jpg#vertical)
+>My hand holding a copy of NSNB at the Austin Public Library.
 
 
