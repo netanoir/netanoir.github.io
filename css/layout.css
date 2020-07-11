@@ -95,7 +95,7 @@ svg {
     max-width: 10%;
 }
 
-.active, .collapsible:hover {
+.active, .collapse:hover {
     font-weight: bold;
 }
 
