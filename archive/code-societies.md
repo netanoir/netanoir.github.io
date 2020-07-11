@@ -13,7 +13,7 @@ I was a co-organizer for the Code Societies winter 2020 session with [emma norto
 
 ---
 
-Code Societies elsewhere on the web:
+Code Societies elsewhere online:
 - [Website](https://sfpc.io/code-societies/)
 - [Oral history](https://sfpc.io/code-societies/oral-history/)
 - [Are.na](https://www.are.na/code-societies)
