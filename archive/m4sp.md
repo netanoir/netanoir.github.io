@@ -7,11 +7,11 @@ title: Memory for a stateless person (M4SP)
 ![Image description: A standing desk shot from above shows the project spread out on top.](/assets/img/archive/m4sp/m4sp1.jpg "M4SP photo by Filip Wolak")
 >Memory for a stateless person (M4SP), 2018. Mixed media (paper, cardboard, wire), axial lead resistors, arduino, python, processing. Photos via Filip Wolak.
 
-On Dec. 12 and 13, I along with 12 other students in the Fall 2018 cohort at the [School for Poetic Computation](https://sfpc.io) exhibited projects in our final showcase to reflect on what we learned during the program. Using resistors, arduino, `python`, `processing.py` and mixed media, I created a circuit titled "Memory for a stateless person" (M4SP).
+On Dec. 12 and 13, I along with 12 other students in the Fall 2018 cohort at the [School for Poetic Computation](https://sfpc.io) exhibited projects in our final showcase to reflect on what we learned during the program. Using resistors, arduino, python, processing.py and mixed media, I created a circuit titled "memory for a stateless person" (M4SP).
 
 ![Image description: ](/assets/img/archive/m4sp/m4sp6.jpg "M4SP photo by Filip Wolak")
 
-Published in 1788, the Brookes slave ship model was designed to stow a maximum of 454 slaves. By its second journey, the ship carried at least 744 black people across the middle passage. M4SP is an installation which interrogates the prototypical nature of dark matter objects, a term I made up in reference to the book Dark Matters by Simone Browne which served as one of the primary works cited.
+Published in 1788, the Brookes slave ship model was designed to stow a maximum of 454 slaves. By its second journey, the ship carried at least 744 black people across the middle passage. M4SP is an installation which interrogates the prototypical nature of dark matter objects, a term I made up in reference to the book _Dark Matters_ by Simone Browne which served as one of the primary works cited.
 
 ![Image description: A black person's hand interacts with the circuit.](/assets/img/archive/m4sp/m4sp2.jpg "M4SP photo by Filip Wolak")
 >A black person's hand interacts with the circuit. Photo via Filip Wolak.

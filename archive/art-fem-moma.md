@@ -21,7 +21,7 @@ Based on an [activity](https://jennyferretti.com/2019/01/23/lesson-plans-be-the-
 ![Photo by Manuel Molina Martagon](/assets/img/archive/art-fem-moma/art-fem-moma4.jpg)
 >Ritu (left) and a workshop participant (right) jofully discussing Wikipedia content on a laptop in front of them. The contents of the laptop are out of view, but we can see the two of them smiling widely. Photo by Manuel Molina Martagon.
 
-We encourgaed participants to think criticially and creatively about how we can make information more accessible to people within our communities by using analog editing and peer reviewing techniques given the following prompts:
+We encouraged participants to think criticially and creatively about how we can make information more accessible to people within our communities by using analog editing and peer reviewing techniques given the following prompts:
 - How can we work on a zine like we would a Wikipedia article?
 - How can you think about subjects, phenomena, and other aspects of our society as a technology?
 - How can you break down the laws, scripts and codes that govern our lives?

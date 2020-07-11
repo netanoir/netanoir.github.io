@@ -1,0 +1,56 @@
+/* @font-face {
+    font-family: "Flux-Regular";
+    src: url("fonts/FluxischElse-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+} */
+
+
+*, ::after, ::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    font-size: 56.25%;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+}
+
+::selection {
+    background: white;
+    color: black
+}
+
+
+.gift-wrap {
+    height: 90vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+}
+
+.left, .right {
+    width: 50%;
+    padding: 2rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    transition: 0.25s;
+}
+
+.left {
+    border-right: 2px solid white;
+}
+
+.left::-webkit-scrollbar, .right::-webkit-scrollbar {
+    display: none;
+    width: 0 !important;
+}

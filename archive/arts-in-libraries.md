@@ -30,7 +30,7 @@ The Cybernetics Library and I live documented the event in the form of a zine-ma
 
 To facilitate, we created a worksheet filled with prompts like:
 - Do you feel like people who look like you are well represented in the room and/or on the panels?
-- Describe the shoes you’re wearing?
+- Describe the shoes you’re wearing.
 - What are your first memories of libraries?
 
 
