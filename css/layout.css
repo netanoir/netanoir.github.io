@@ -1,10 +1,9 @@
-/* @font-face {
-    font-family: "Flux-Regular";
-    src: url("fonts/FluxischElse-Regular.otf");
+@font-face {
+    font-family: "TimesDot";
+    src: url("css/fonts/TimesDotRom.otf");
     font-weight: normal;
     font-style: normal;
-} */
-
+}
 
 *, ::after, ::before {
     padding: 0;
@@ -19,38 +18,157 @@ html {
 }
 
 body {
-    background-color: black;
-    color: white;
-    font-size: 3rem;
+    background-color: indianred;
+    color: black;
+    font-family: TimesDot, Times, serif;
+    font-size: 2.25vw;
+    line-height: 2.5vw;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: lowercase;
+    overflow-wrap: break-word;
 }
 
 ::selection {
-    background: white;
-    color: black
+    background: black;
+    color: white;
 }
 
-
 .gift-wrap {
-    height: 90vh;
+    height: 100vh;
     width: 100%;
     overflow: hidden;
     display: flex;
 }
 
 .left, .right {
-    width: 50%;
-    padding: 2rem;
+    /* padding: 2rem; */
     overflow-y: scroll;
-    overflow-x: hidden;
     -webkit-overflow-scrolling: touch;
     transition: 0.25s;
 }
 
 .left {
-    border-right: 2px solid white;
+    width: 40%;
+    overflow-x: hidden;
+    border-right: 2px solid black;
+}
+
+.right {
+    width: 60%;
 }
 
 .left::-webkit-scrollbar, .right::-webkit-scrollbar {
     display: none;
     width: 0 !important;
+}
+
+hr {
+    border: 1px solid black;
+    width: 100vw;
+    margin-bottom: 1rem;
+    padding: 0 !important;
+}
+
+.collapse {
+    background-color: transparent;
+    color: black;
+    font-family: TimesDot, Times, serif;
+    font-size: 3vw;
+    font-weight: normal;
+    cursor: help;
+    padding-top: 5%;
+    padding-left: 2rem;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    border-bottom: 2px solid black;
+    width: 100vw;
+}
+
+.collapse::after {
+    content: '\25BE';
+}
+
+svg {
+    max-width: 10%;
+}
+
+.active, .collapsible:hover {
+    font-weight: bold;
+}
+
+.archive-links {
+    padding-top: 3%;
+    display: none;
+    overflow: hidden;
+}
+
+a, a:active, a:hover {
+    color: black;
+    font-family: Courier, monospace;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+ul {
+    position: relative;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 3.5%;
+}
+
+ul li:before {
+    content: '- ';
+    position: absolute;
+    left: 0;
+}
+
+.archive-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+p, h1, h2, h3, ul {
+    margin: 2rem;
+}
+
+h2 {
+    font-family: Courier, monospace;
+    font-variant: small-caps;
+    font-size: 2vw;
+    font-weight: normal;
+    transform: rotate(-10deg);
+}
+
+h3 {
+    font-size: 3vw;
+    line-height: 3.25vw;
+}
+
+p {
+    margin-top: 5%;
+}
+
+p.about {
+    margin-top: 0% !important;
+}
+
+img {
+    max-width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+blockquote {
+    margin-top: 0;
+    font-size: 2.5vw;
+    line-height: 2.75vw;
+    font-style: italic;
+    text-align: center;
 }
