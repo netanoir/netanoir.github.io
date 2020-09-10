@@ -42,7 +42,7 @@ body {
 }
 
 .left, .right {
-    /* padding: 2rem; */
+    /* padding: 2vw; */
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
     transition: 0.25s;
@@ -66,7 +66,7 @@ body {
 hr {
     border: 1px solid black;
     width: 100vw;
-    margin-bottom: 1rem;
+    margin-bottom: 1vw;
     padding: 0 !important;
 }
 
@@ -78,7 +78,7 @@ hr {
     font-weight: normal;
     cursor: help;
     padding-top: 5%;
-    padding-left: 2rem;
+    padding-left: 2vw;
     width: 100%;
     border: none;
     text-align: left;
@@ -134,7 +134,7 @@ ul li:before {
 }
 
 p, h1, h2, h3, ul {
-    margin: 2rem;
+    margin: 2vw;
 }
 
 h2 {
@@ -167,8 +167,12 @@ img {
 
 blockquote {
     margin-top: 0;
-    font-size: 2.5vw;
-    line-height: 2.75vw;
+    font-size: 3.5vw;
+    line-height: 3.75vw;
     font-style: italic;
     text-align: center;
+}
+
+@media only screen and (max-width:800px) {
+
 }
