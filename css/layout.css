@@ -1,6 +1,6 @@
 @font-face {
     font-family: "TimesDot";
-    src: url("css/fonts/TimesDotRom.otf");
+    src: url("fonts/TimesDotRom.otf");
     font-weight: normal;
     font-style: normal;
 }
@@ -21,8 +21,8 @@ body {
     background-color: indianred;
     color: black;
     font-family: TimesDot, Times, serif;
-    font-size: 2.25vw;
-    line-height: 2.5vw;
+    font-size: 4rem;
+    line-height: 4.125rem;
     font-weight: normal;
     font-style: normal;
     text-transform: lowercase;
@@ -30,8 +30,7 @@ body {
 }
 
 ::selection {
-    background: black;
-    color: white;
+    background: white;
 }
 
 .gift-wrap {
@@ -42,10 +41,10 @@ body {
 }
 
 .left, .right {
-    /* padding: 2vw; */
+    /* padding: 2rem; */
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
-    transition: 0.25s;
+    /* transition: 0.25s; */
 }
 
 .left {
@@ -66,7 +65,7 @@ body {
 hr {
     border: 1px solid black;
     width: 100vw;
-    margin-bottom: 1vw;
+    margin-bottom: 1rem;
     padding: 0 !important;
 }
 
@@ -74,11 +73,11 @@ hr {
     background-color: transparent;
     color: black;
     font-family: TimesDot, Times, serif;
-    font-size: 3vw;
+    font-size: 4rem;
     font-weight: normal;
     cursor: help;
     padding-top: 5%;
-    padding-left: 2vw;
+    padding-left: 2rem;
     width: 100%;
     border: none;
     text-align: left;
@@ -95,7 +94,7 @@ svg {
     max-width: 10%;
 }
 
-.active, .collapse:hover {
+.active, .collapsible:hover {
     font-weight: bold;
 }
 
@@ -134,20 +133,20 @@ ul li:before {
 }
 
 p, h1, h2, h3, ul {
-    margin: 2vw;
+    margin: 2rem;
 }
 
 h2 {
     font-family: Courier, monospace;
     font-variant: small-caps;
-    font-size: 2vw;
+    font-size: 3rem;
     font-weight: normal;
     transform: rotate(-10deg);
 }
 
 h3 {
-    font-size: 3vw;
-    line-height: 3.25vw;
+    font-size: 3rem;
+    line-height: 3.25rem;
 }
 
 p {
@@ -167,12 +166,14 @@ img {
 
 blockquote {
     margin-top: 0;
-    font-size: 3.5vw;
-    line-height: 3.75vw;
+    font-size: 2.5rem;
+    line-height: 2.75rem;
     font-style: italic;
     text-align: center;
 }
 
-@media only screen and (max-width:800px) {
-
+code {
+    background: black;
+    color: white;
+    padding: 0.125em;
 }
