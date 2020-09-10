@@ -11,6 +11,7 @@ I used [Sheets](https://sheets.google.com) with an add-on called [Text Randomize
 
 ![A screenshot of the sheet.](/assets/img/blog/end-of-the-world-in-3-parts0.png)
 
+I was inspired by other readings I've been doing, including _Riot_ by Gwendolyn Brooks and _To See the Earth Before the End of the World_ by Ed Roberson. I used both texts to inform the contents of the dataset. I was also mirrored the form of _Riot_ by mirroing the narrative form in three parts, similar to Brooks's chapbook which is a poem in three parts. 
 
 To generate a story from the system I constructed:
 
