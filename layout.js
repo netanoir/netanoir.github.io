@@ -29,3 +29,11 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+let links = document.links;
+
+for (let i = 0, linksLength = links.length; i < linksLength; i += 1) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
