@@ -44,7 +44,7 @@ body {
     /* padding: 2rem; */
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
-    transition: 0.25s;
+    /* transition: 0.25s; */
 }
 
 .left {
@@ -170,4 +170,10 @@ blockquote {
     line-height: 2.75rem;
     font-style: italic;
     text-align: center;
+}
+
+code {
+    background: black;
+    color: white;
+    padding: 0.125em;
 }
