@@ -177,3 +177,11 @@ code {
     color: white;
     padding: 0.125em;
 }
+
+iframe {
+    margin: 0 auto;
+    width: 70%;
+    height: 50%;
+    display: block;
+    border-style: none;
+}
