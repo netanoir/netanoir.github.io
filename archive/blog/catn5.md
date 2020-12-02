@@ -52,6 +52,6 @@ __Toni Morrison__
 
 ![A screenshot. Sorry for the terrible alt text. Please nudge me to fix this.](/assets/img/blog/black-feminist-autotheory4.png)
 
-In the near future, I will fine-tune this project with a [GPT-2] text-generating machine learning model which will be trained on the same corpora.
+In the near future, I will fine-tune this project with a [GPT-2](https://en.wikipedia.org/wiki/OpenAI#GPT-2) text-generating machine learning model which will be trained on the same corpora.
 
 Read a pdf copy of the first iteration of the play here.
