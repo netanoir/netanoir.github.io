@@ -2,7 +2,7 @@
 layout: archive
 title: Simulation and Narrative&#x3a; Sketch 5 - NaNoGenMo project
 ---
-For the fifth [project](http://catn.decontextualize.com/schedule/) assigned in [Computational Approaches to Narrative](http://catn.decontextualize.com), I made a computer generated play in the spirit of [National Novel Generation Month](https://github.com/dariusk/NaNoGenMo). The play is concerned with gesturing towards a speculative anthology of generative Black feminist autotheory. I read a lot of Black feminist literature, especially for [my thesis](../m4sp.html). In reading all the scholars, theorists, non fiction writers, fiction writers, poets, philosphers and thinkers, I like to imagine all of them getting together and talking about the very things they write about. 
+For my fifth and final [project](http://catn.decontextualize.com/schedule/) assigned in [Computational Approaches to Narrative](http://catn.decontextualize.com), I made a [computer generated play](../../assets/img/blog/bft.pdf) in the spirit of [National Novel Generation Month](https://github.com/dariusk/NaNoGenMo). The play is concerned with gesturing towards a speculative anthology of generative Black feminist autotheory. I read a lot of Black feminist literature, especially for [my thesis](../m4sp.html). In reading all the scholars, theorists, non fiction writers, fiction writers, poets, philosphers and thinkers, I like to imagine all of them getting together and talking about the very things they write about. 
 
 ![A screenshot. Sorry for the terrible alt text. Please nudge me to fix this.](/assets/img/blog/black-feminist-autotheory0.png)
 
@@ -54,4 +54,6 @@ __Toni Morrison__
 
 In the near future, I will fine-tune this project with a [GPT-2](https://en.wikipedia.org/wiki/OpenAI#GPT-2) text-generating machine learning model which will be trained on the same corpora.
 
-Read a pdf copy of the first iteration of the play here.
+Read a pdf copy of the final iteration of the play [here](../../assets/img/blog/bft.pdf).
+
+Review the code on [github](https://github.com/netanoir/material-of-language/blob/master/black_feminist_aitextgen.ipynb) or [colab](https://colab.research.google.com/drive/1fHGA61qOTrkYn-UMOnaNg-rSpbI_8tpx?usp=sharing).
