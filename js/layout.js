@@ -1,19 +1,19 @@
-const netasColors = [
-  "mediumseagreen",
-  "indianred",
-  "palevioletred",
-  "sienna",
-  "slategrey",
-  "mediumaquamarine",
-  "lightsalmon",
-  "greenyellow",
-];
+// const netasColors = [
+//   "mediumseagreen",
+//   "indianred",
+//   "palevioletred",
+//   "sienna",
+//   "slategrey",
+//   "mediumaquamarine",
+//   "lightsalmon",
+//   "greenyellow",
+// ];
 
-let aColorPerformsASolo = netasColors[Math.floor(Math.random() * netasColors.length)];
+// let aColorPerformsASolo = netasColors[Math.floor(Math.random() * netasColors.length)];
 
-window.onload = (event) => {
-  document.body.style.backgroundColor = aColorPerformsASolo;
-};
+// window.onload = (event) => {
+//   document.body.style.backgroundColor = aColorPerformsASolo;
+// };
 
 let coll = document.getElementsByClassName("collapse");
 let i;
