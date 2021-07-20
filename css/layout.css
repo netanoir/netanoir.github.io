@@ -46,7 +46,6 @@ body {
 .left {
     width: 40%;
     overflow-x: hidden;
-    scrollbar-width: none;
     border-right: 0.125vw solid saddlebrown;
 }
 
@@ -242,6 +241,10 @@ a.channel {
         width: 100%;
         border-right: none;
         overflow: scroll;
+        -ms-overflow-style: none;
+        /* IE 11 */
+        scrollbar-width: none;
+        /* Firefox 64 */
     }
     .left {
         height: 40%;
