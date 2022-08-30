@@ -60,7 +60,7 @@ body {
 
 hr {
     border: 0.025vw dashed #3A0605;
-    width: 25%;
+    width: 100%;
     margin-bottom: 1vw;
     padding: 0 !important;
 }
@@ -78,8 +78,7 @@ hr {
     border: none;
     text-align: left;
     outline: none;
-    border-bottom: 0.125vw solid #3A0605;
-    ;
+    border-bottom: 0.125vw dashed #3A0605;
     width: 100vw;
 }
 
