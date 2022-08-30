@@ -59,8 +59,8 @@ body {
 }
 
 hr {
-    border: 0.025vw solid #3A0605;
-    width: 100vw;
+    border: 0.025vw dashed #3A0605;
+    width: 25%;
     margin-bottom: 1vw;
     padding: 0 !important;
 }
@@ -182,8 +182,8 @@ blockquote {
 }
 
 code {
-    background: #3A0605;
-    color: #3A0605;
+    background-color: #3A0605;
+    color: #b4cef9;
     padding: 0.125em;
 }
 
