@@ -13,9 +13,8 @@ html {
 }
 
 body {
-    background-color: black;
-    background-image: url("bg.jpg");
-    color: black;
+    background-color: #b4cef9;
+    color: #3A0605;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2.75vw;
     line-height: 110%;
@@ -27,7 +26,7 @@ body {
 }
 
 ::selection {
-    background: black;
+    background: #3A0605;
 }
 
 .gift-wrap {
@@ -46,7 +45,7 @@ body {
 .left {
     width: 40%;
     overflow-x: hidden;
-    border-right: 0.125vw solid black;
+    border-right: 0.125vw solid #3A0605;
 }
 
 .right {
@@ -60,7 +59,7 @@ body {
 }
 
 hr {
-    border: 0.025vw solid black;
+    border: 0.025vw solid #3A0605;
     width: 100vw;
     margin-bottom: 1vw;
     padding: 0 !important;
@@ -68,7 +67,7 @@ hr {
 
 .collapse {
     background-color: transparent;
-    color: black;
+    color: #3A0605;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2vw;
     font-weight: normal;
@@ -79,7 +78,7 @@ hr {
     border: none;
     text-align: left;
     outline: none;
-    border-bottom: 0.125vw solid black;
+    border-bottom: 0.125vw solid #3A0605;
     ;
     width: 100vw;
 }
@@ -105,7 +104,7 @@ svg {
 
 a,
 a:active {
-    color: black;
+    color: #3A0605;
     font-family: Courier, monospace;
     font-weight: normal;
     text-decoration: none;
@@ -183,8 +182,8 @@ blockquote {
 }
 
 code {
-    background: black;
-    color: black;
+    background: #3A0605;
+    color: #3A0605;
     padding: 0.125em;
 }
 
@@ -219,7 +218,7 @@ a.channel {
 }
 
 a.channel {
-    border: 0.025vw solid black !important;
+    border: 0.025vw solid #3A0605 !important;
     min-height: 300px;
 }
 
@@ -248,7 +247,7 @@ a.channel {
     }
     .left {
         height: 40%;
-        border-bottom: 0.125vw solid black;
+        border-bottom: 0.125vw solid #3A0605;
     }
     .right {
         height: 60%;
