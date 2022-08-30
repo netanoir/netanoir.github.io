@@ -122,7 +122,7 @@ ul {
 }
 
 ul li:before {
-    content: '\2058';
+    content: '-\2003';
     position: absolute;
     left: 0;
 }
