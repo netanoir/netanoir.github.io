@@ -45,7 +45,7 @@ body {
 .left {
     width: 40%;
     overflow-x: hidden;
-    border-right: 0.125vw solid #3A0605;
+    border-right: 0.125vw dashed #3A0605;
 }
 
 .right {
