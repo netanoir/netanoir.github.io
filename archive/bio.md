@@ -3,6 +3,9 @@ layout: archive
 title: Bio
 ---
 
+![Neta, a deep brown skinned person, wears a colorful halter top and large lavender heart-shaped crochet earrings as she stands in front of a reflective backdrop that doubles and distorts the image of her profile..](/assets/img/archive/bio/netabomani_byizzycommers.jpg)
+> Neta Bomani photographed by Izzy Commers.
+
 Neta Bomani is a learner and educator who is interested in understanding the practice of reading and parsing information as a collaborative process between human and non-human computers. 
 
 Neta’s work combines social practices, workshops, archives, oral histories, computation, printmaking, zines, and publishing, to create artifacts that engage abolitionist, black feminist, and do-it-yourself philosophies. 
